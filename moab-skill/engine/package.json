@@ -1,0 +1,11 @@
+{
+  "name": "moab-engine",
+  "version": "1.0.0",
+  "description": "MOAB Stage 1 deterministic helpers — hedging scanner (en+zh-CN), honesty ladder, cap-composition, verification code, range check, first-use gloss.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "dependencies": {},
+  "license": "MIT"
+}
